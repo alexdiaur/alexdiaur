@@ -13,7 +13,7 @@
 <p align="center">
 <a href= "https://www.linkedin.com/in/alejandra-diaz-u/"><img src="https://img.icons8.com/linkedin"width="30px"/>
 </a>
-<a href=href="mailto:francys.diazurribarri@gmail.com"><img src="https://img.icons8.com/gmail"width="30px"/></a>
+<a href="mailto:francys.diazurribarri@gmail.com"><img src="https://img.icons8.com/gmail"width="30px"/></a>
 <a href= "https://twitter.com/alexdiaur"><img src="https://img.icons8.com/twitter" width="30px"/></a>
 
 </p>
